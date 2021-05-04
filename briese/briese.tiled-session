@@ -1,0 +1,209 @@
+{
+    "activeFile": "briese.json",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "Alle Dateien (*)",
+    "fileStates": {
+        "": {
+            "scaleInEditor": 1
+        },
+        "C:/_Games_/_Kraut.World_/[Maps]/allesgute/allesgute.json": {
+            "scale": 1,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 309.5,
+                "y": 280
+            }
+        },
+        "C:/_Games_/_Kraut.World_/[Maps]/allesgute/allesgute.json#01_Tile_Set_Lichter_Boden": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/_Games_/_Kraut.World_/[Maps]/allesgute/allesgute.json#02_Tile_Set_Signs": {
+            "scaleInDock": 1
+        },
+        "C:/_Games_/_Kraut.World_/[Maps]/allesgute/allesgute.json#A_P.A._Kit_Alles Gute_0.1": {
+            "scaleInDock": 1
+        },
+        "C:/_Games_/_Kraut.World_/[Maps]/allesgute/allesgute.json#Boxen und Alles Gute_0.1": {
+            "scaleInDock": 1
+        },
+        "C:/_Games_/_Kraut.World_/[Maps]/allesgute/allesgute.json#CampFireFinished": {
+            "scaleInDock": 1
+        },
+        "C:/_Games_/_Kraut.World_/[Maps]/allesgute/allesgute.json#Flat - Stone Walls A - 64x96": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/_Games_/_Kraut.World_/[Maps]/allesgute/allesgute.json#Ground_0.3": {
+            "scaleInDock": 1
+        },
+        "C:/_Games_/_Kraut.World_/[Maps]/allesgute/allesgute.json#Ground_A_0.4": {
+            "scaleInDock": 1
+        },
+        "C:/_Games_/_Kraut.World_/[Maps]/allesgute/allesgute.json#Pfeile_Single_Transparenz_Down_0.2": {
+            "scaleInDock": 1
+        },
+        "C:/_Games_/_Kraut.World_/[Maps]/allesgute/allesgute.json#Pfeile_Single_Transparenz_Pulse_0.1": {
+            "scaleInDock": 1
+        },
+        "C:/_Games_/_Kraut.World_/[Maps]/allesgute/allesgute.json#Turntables_3": {
+            "scaleInDock": 1
+        },
+        "C:/_Games_/_Kraut.World_/[Maps]/allesgute/allesgute.json#cija_32x32_basic_CC0": {
+            "scaleInDock": 1
+        },
+        "C:/_Games_/_Kraut.World_/[Maps]/allesgute/allesgute.json#cija_32x32_expansion for Pipoya_CC0": {
+            "scaleInDock": 1
+        },
+        "C:/_Games_/_Kraut.World_/[Maps]/allesgute/allesgute.json#dk_overlays": {
+            "scaleInDock": 1
+        },
+        "C:/_Games_/_Kraut.World_/[Maps]/allesgute/allesgute.json#dk_transports": {
+            "scaleInDock": 1
+        },
+        "C:/_Games_/_Kraut.World_/[Maps]/allesgute/allesgute.json#flashlights_01": {
+            "scaleInDock": 1
+        },
+        "C:/_Games_/_Kraut.World_/[Maps]/allesgute/allesgute.json#mapUtilities": {
+            "scaleInDock": 1
+        },
+        "C:/_Games_/_Kraut.World_/[Maps]/allesgute/allesgute.json#minideko": {
+            "scaleInDock": 1
+        },
+        "C:/_Games_/_Kraut.World_/[Maps]/allesgute/allesgute.json#misc": {
+            "scaleInDock": 1
+        },
+        "C:/_Games_/_Kraut.World_/[Maps]/allesgute/allesgute.json#misc_set": {
+            "scaleInDock": 1
+        },
+        "C:/_Games_/_Kraut.World_/[Maps]/allesgute/allesgute.json#rc3-mullana-colors-128": {
+            "scaleInDock": 1
+        },
+        "C:/_Games_/_Kraut.World_/[Maps]/allesgute/allesgute.json#rc3-mullana-floor-wall": {
+            "scaleInDock": 1
+        },
+        "C:/_Games_/_Kraut.World_/[Maps]/allesgute/allesgute.json#rc3-mullana-functionary": {
+            "scaleInDock": 1
+        },
+        "C:/_Games_/_Kraut.World_/[Maps]/allesgute/allesgute.json#rc3-mullana-neon-signs": {
+            "scaleInDock": 1
+        },
+        "C:/_Games_/_Kraut.World_/[Maps]/allesgute/allesgute.json#rc3-mullana-overlay": {
+            "scaleInDock": 1
+        },
+        "C:/_Games_/_Kraut.World_/[Maps]/manatails/manatails.json": {
+            "scale": 4,
+            "selectedLayer": 13,
+            "viewCenter": {
+                "x": 1041.875,
+                "y": 687.5
+            }
+        },
+        "C:/_Games_/_Kraut.World_/[Maps]/manatails/manatails.json#02_Tile_Set_Signs": {
+            "scaleInDock": 1
+        },
+        "C:/_Games_/_Kraut.World_/[Maps]/manatails/manatails.json#03_Tile_Set_Worldsigns_Ani": {
+            "scaleInDock": 1
+        },
+        "C:/_Games_/_Kraut.World_/[Maps]/manatails/manatails.json#A_Flag_0.1": {
+            "scaleInDock": 1
+        },
+        "C:/_Games_/_Kraut.World_/[Maps]/manatails/manatails.json#CampFireFinished": {
+            "scaleInDock": 1
+        },
+        "C:/_Games_/_Kraut.World_/[Maps]/manatails/manatails.json#TileSet_V2-ohnegrün": {
+            "scaleInDock": 1
+        },
+        "C:/_Games_/_Kraut.World_/[Maps]/manatails/manatails.json#[A]LongGrass_pipo": {
+            "scaleInDock": 1
+        },
+        "C:/_Games_/_Kraut.World_/[Maps]/manatails/manatails.json#[Base]BaseChip_pipo+": {
+            "scaleInDock": 1
+        },
+        "C:/_Games_/_Kraut.World_/[Maps]/manatails/manatails.json#bg_bluesky": {
+            "scaleInDock": 1
+        },
+        "C:/_Games_/_Kraut.World_/[Maps]/manatails/manatails.json#blonde-wood": {
+            "scaleInDock": 1
+        },
+        "C:/_Games_/_Kraut.World_/[Maps]/manatails/manatails.json#cloud_tileA5_2": {
+            "scaleInDock": 1
+        },
+        "C:/_Games_/_Kraut.World_/[Maps]/manatails/manatails.json#cloud_tileA5_2_grey": {
+            "scaleInDock": 1
+        },
+        "C:/_Games_/_Kraut.World_/[Maps]/manatails/manatails.json#dark-wood": {
+            "scaleInDock": 1
+        },
+        "C:/_Games_/_Kraut.World_/[Maps]/manatails/manatails.json#dk_transports": {
+            "scaleInDock": 1
+        },
+        "C:/_Games_/_Kraut.World_/[Maps]/manatails/manatails.json#einkorn_kuchen_melone_0.1": {
+            "scaleInDock": 1
+        },
+        "C:/_Games_/_Kraut.World_/[Maps]/manatails/manatails.json#hyptosis_til-art-batch-2": {
+            "scaleInDock": 1
+        },
+        "C:/_Games_/_Kraut.World_/[Maps]/manatails/manatails.json#hyptosis_tile-art-batch-1": {
+            "scaleInDock": 1
+        },
+        "C:/_Games_/_Kraut.World_/[Maps]/manatails/manatails.json#hyptosis_tile-art-batch-3": {
+            "scaleInDock": 1
+        },
+        "C:/_Games_/_Kraut.World_/[Maps]/manatails/manatails.json#hyptosis_tile-art-batch-4": {
+            "scaleInDock": 1
+        },
+        "C:/_Games_/_Kraut.World_/[Maps]/manatails/manatails.json#mapUtilities": {
+            "scaleInDock": 1
+        },
+        "C:/_Games_/_Kraut.World_/[Maps]/manatails/manatails.json#pipo-map001": {
+            "scaleInDock": 1
+        },
+        "C:/_Games_/_Kraut.World_/[Maps]/manatails/manatails.json#pipo-map001_at-tuti": {
+            "scaleInDock": 1
+        },
+        "briese.json": {
+            "scale": 1.3184742647058822,
+            "selectedLayer": 23,
+            "viewCenter": {
+                "x": 262.80376437783195,
+                "y": 207.05751132798886
+            }
+        },
+        "briese.json#02_Tile_Set_Signs": {
+            "scaleInDock": 1
+        },
+        "briese.json#03_Tile_Set_Worldsigns_Ani": {
+            "scaleInDock": 1
+        },
+        "briese.json#A_TEXT_BRIESE_0.1": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "briese.json#BaseChip_pipo": {
+            "scaleInDock": 1
+        },
+        "briese.json#blonde-wood": {
+            "scaleInDock": 1
+        },
+        "briese.json#mapUtilities": {
+            "scaleInDock": 1
+        }
+    },
+    "frame.defaultDuration": 240,
+    "last.externalTilesetPath": "C:/_Games_/_Kraut.World_/[Maps]/allesgute/Tiles_Extern",
+    "last.imagePath": "C:/_Games_/_Kraut.World_/[Maps]/allesgute/Tiles_Created",
+    "openFiles": [
+        "briese.json"
+    ],
+    "project": "briese.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "briese.json",
+        "C:/_Games_/_Kraut.World_/[Maps]/allesgute/allesgute.json",
+        "C:/_Games_/_Kraut.World_/[Maps]/manatails/manatails.json"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.lastUsedFilter": "Alle Dateien (*)"
+}
